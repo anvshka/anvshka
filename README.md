@@ -5,7 +5,7 @@
       <p>A passionate AIML enthusiast and data science geek</p>
       <ul>
         <li>🎓 I'm currently a <b>4th year student</b> at SRM University, Kattankulathur</li>
-        <li>🌱 Exploring and learning about <b>Data Science and Analytics</b></li>
+        <li>🌱 Exploring and learning about <b>Data Science and AIML</b></li>
         <li>🤝 Open to <b>collaborating on interesting projects</b></li>
         <li>📫 Contact: <a href="mailto:anushka.r2875@gmail.com">anushka.r2875@gmail.com</a></li>
       </ul>
